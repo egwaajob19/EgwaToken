@@ -1,0 +1,2 @@
+# EgwaToken
+ Ethereum based Token
